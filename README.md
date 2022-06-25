@@ -4,7 +4,7 @@
 
 [![linux](https://github.com/qdslovelife/bustub/actions/workflows/codev.yml/badge.svg)](https://github.com/qdslovelife/bustub/actions/workflows/codev.yml)
 [![windows](https://github.com/qdslovelife/bustub/actions/workflows/windows.yml/badge.svg)](https://github.com/qdslovelife/bustub/actions/workflows/windows.yml)
-[![codecov](https://codecov.io/gh/qdslovelife/bustub/branch/master/graph/badge.svg?token=6Y2ZTDH9E1)](https://codecov.io/gh/qdslovelife/bustub)
+[![codecov](https://codecov.io/gh/xiaoshuai98/bustub/branch/main/graph/badge.svg?token=4GUSKLJ349)](https://codecov.io/gh/xiaoshuai98/bustub)
 
 BusTub is a disk-oriented relational database management system built at [Carnegie Mellon University](https://db.cs.cmu.edu) for the [Introduction to Database Systems](https://15445.courses.cs.cmu.edu) (15-445/645) course.
 
